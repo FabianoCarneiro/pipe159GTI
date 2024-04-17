@@ -7,7 +7,7 @@ import './App.css';
 class App extends Component {
   render() {
     return (
-
+      <>
       <div className="App">
         <header className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
@@ -23,7 +23,7 @@ class App extends Component {
         <h1 className="App-title"> Não contavam com a minha astúcia :) </h1>
       </header>
     </div>
-
+</>
     );
   }
 }
