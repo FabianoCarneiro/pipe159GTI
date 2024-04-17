@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import logo from './logo.svg';
+import cachorroPolvo from './cachorroPolvo.jpg';
 //import mba from './MBA.png';
 
 import './App.css';
@@ -10,7 +10,7 @@ class App extends Component {
       <div className="App">
         <header className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
-          <h1 className="App-title"> Welcome to 2024 - 159GTI</h1>
+          <h1 className="App-title">OctoCat é o KCT é nois Cachorro!</h1>
         </header>
       </div>
     );
