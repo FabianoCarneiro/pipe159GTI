@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/pipe159GTI/static/css/main.a3498003.chunk.css",
-    "main.js": "/pipe159GTI/static/js/main.e6028992.chunk.js",
-    "main.js.map": "/pipe159GTI/static/js/main.e6028992.chunk.js.map",
+    "main.js": "/pipe159GTI/static/js/main.49e21a0c.chunk.js",
+    "main.js.map": "/pipe159GTI/static/js/main.49e21a0c.chunk.js.map",
     "runtime-main.js": "/pipe159GTI/static/js/runtime-main.d6a326b8.js",
     "runtime-main.js.map": "/pipe159GTI/static/js/runtime-main.d6a326b8.js.map",
     "static/js/2.53d44958.chunk.js": "/pipe159GTI/static/js/2.53d44958.chunk.js",
     "static/js/2.53d44958.chunk.js.map": "/pipe159GTI/static/js/2.53d44958.chunk.js.map",
     "index.html": "/pipe159GTI/index.html",
-    "precache-manifest.3debdb3ef1c938bc63fe17682b3c1dfa.js": "/pipe159GTI/precache-manifest.3debdb3ef1c938bc63fe17682b3c1dfa.js",
+    "precache-manifest.e1a7b92a020b22c32f98c7f1778c4108.js": "/pipe159GTI/precache-manifest.e1a7b92a020b22c32f98c7f1778c4108.js",
     "service-worker.js": "/pipe159GTI/service-worker.js",
     "static/css/main.a3498003.chunk.css.map": "/pipe159GTI/static/css/main.a3498003.chunk.css.map",
     "static/js/2.53d44958.chunk.js.LICENSE.txt": "/pipe159GTI/static/js/2.53d44958.chunk.js.LICENSE.txt",
-    "static/media/FB59156C-1783-49BA-98C7-43BA276CFFDD.jpeg": "/pipe159GTI/static/media/FB59156C-1783-49BA-98C7-43BA276CFFDD.b962c96d.jpeg"
+    "static/media/cachorroPolvo.jpg": "/pipe159GTI/static/media/cachorroPolvo.dc9a8a98.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.d6a326b8.js",
     "static/js/2.53d44958.chunk.js",
     "static/css/main.a3498003.chunk.css",
-    "static/js/main.e6028992.chunk.js"
+    "static/js/main.49e21a0c.chunk.js"
   ]
 }
