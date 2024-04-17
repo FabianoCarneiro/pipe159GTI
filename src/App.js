@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import cachorroPolvo from './cachorroPolvo.jpg';
+import logo from './cachorroPolvo.jpg';
 //import mba from './MBA.png';
 
 import './App.css';
