@@ -16,8 +16,14 @@
 
 .App-title {
   font-size: 1.5em;
+  text-align: center;
+  color: red;
+
 }
 
+.chapolin {
+margin-top: 60px;
+}
 .App-intro {
   font-size: large;
 }
